@@ -1,4 +1,4 @@
-// 
+// sample code from Africa's talking
 
 const express = require('express');
 const bodyParser = require('body-parser');
